@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @PriyankaSukumar22
-- 👀 I’m interested in Internet of Everything, User Research and Design
-- 🌱 I’m currently learning Computational Bioacoustics
+- 👋 Hello World, 
+- <H2>I’m @PriyankaSukumar22</H2>
+- 👀 I’m interested in <b>Internet of Everything, User Research and Design,Augmented Reality</b>
+- 🌱 I’m currently learning <b>Computational Bioacoustics</b>
 
 <!---
 PriyankaSukumar22/PriyankaSukumar22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
